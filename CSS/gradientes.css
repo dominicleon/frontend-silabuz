@@ -1,0 +1,26 @@
+.gradiente-uno {
+  border: solid 2px;
+  width: 300px;
+  height: 300px;
+  background: linear-gradient(360deg, rgb(229, 36, 36), white);
+}
+
+*{margin: 0;
+padding: 0;
+
+}
+
+body{font: arial, helvetica, sans-serif;
+}
+
+.gradiente-dos {
+    border: solid 2px;
+    width: 300px;
+    height: 300px;
+    background: linear-gradient(360deg, rgb(229, 36, 36), white);}
+
+    .gradiente-tres {
+        border: solid 2px;
+        width: 300px;
+        height: 300px;
+        background: linear-gradient(360deg, rgb(229, 36, 36), white);}

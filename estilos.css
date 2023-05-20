@@ -1,0 +1,31 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+body {
+
+font font-family: arial, helvetica, sans-serif
+;
+
+
+}
+.header {
+display: flex;
+justify-content: flex-end;
+justify-content: flex-end;
+
+
+}
+nav{
+    margin-top: 20px;
+    margin-right: 40px;
+
+}
+
+.nav ul {
+    display: flex;
+    list-style: none;
+}
+
+.nav ul li{}
